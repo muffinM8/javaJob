@@ -1,5 +1,7 @@
-public class Hello{
+public class Adam{
     public static void main(String[] args){
-        System.outprintln("I'm Adam :D "+i);
+        for(int i =1; i<=10;i++){
+            System.out.println("I'm Adam :D "+i);
+        }
     }
 }
